@@ -8,4 +8,4 @@ You can also resize the screen using your scrollwheel.
 
 End the game by pressing escape or closing the window.
 
-![example.png](example image)
+![example image](example.png)
